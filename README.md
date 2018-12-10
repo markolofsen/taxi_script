@@ -4,7 +4,9 @@
 
 ---
 
-Version = 0.0.2 <br />
+# The best solution for your taxi business online!
+
+Version = 0.0.3 <br />
 Library name = taxi_script <br />
 Title = Free Taxi Script <br />
 Keywords = Free taxi script app <br />
