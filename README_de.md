@@ -1,24 +1,22 @@
 <p align="center"><b>🛠️ Dieses Repository wurde mit <a href="https://gitupload.com">GitUpload</a> erstellt.</b></p>
-
+<p align="center"><a href="https://mirador.online"><img src="https://github.com/markolofsen/taxi_script//blob/master/.banners/banner_de.png?raw=1" /></a></p>
 <p align="center"><b>Languages:</b><br /><b>🇩🇪 Deutsch</b> | <a href="https://github.com/markolofsen/taxi_script/blob/master/README.md">🇬🇧 English</a> | <a href="https://github.com/markolofsen/taxi_script/blob/master/README_es.md">🇪🇸 Spanish</a> | <a href="https://github.com/markolofsen/taxi_script/blob/master/README_fr.md">🇫🇷 French</a> | <a href="https://github.com/markolofsen/taxi_script/blob/master/README_it.md">🇮🇹 Italian</a> | <a href="https://github.com/markolofsen/taxi_script/blob/master/README_ru.md">🇷🇺 Russian</a></p>
 
 ---
 
-Sample variable for repo: [[any_repo_var]]
+Version = 0.0.2 <br />
+Bibliotheksname = taxi_script <br />
+Titel = Free Taxi Script <br />
+Schlüsselwörter = Free taxi script app <br />
 
-Version = 0.0.1 <br />
-Library name = taxi_script <br />
-Title = Free Taxi Script <br />
-Keywords = Free taxi script app <br />
-
-### Hot to install
+### Heiß zu installieren
 
 ```sh
 yarn add taxi_script
 ```
-                            
 
-### How to use
+
+### Wie benutzt man
 
 ```javascript
 const {taxi_script} = require('taxi_script');
@@ -27,9 +25,8 @@ console.dir(taxi_script)
 s = new taxi_script('Example key').start('Hello');
 console.log(s)
 ```
-                        
 
-    
+
 
 ---
 

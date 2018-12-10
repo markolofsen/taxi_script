@@ -1,12 +1,10 @@
 <p align="center"><b>🛠️ This repository was created using the <a href="https://gitupload.com">GitUpload</a>.</b></p>
-
+<p align="center"><a href="https://mirador.online"><img src="https://github.com/markolofsen/taxi_script//blob/master/.banners/banner_en.png?raw=1" /></a></p>
 <p align="center"><b>Languages:</b><br /><a href="https://github.com/markolofsen/taxi_script/blob/master/README_de.md">🇩🇪 Deutsch</a> | <b>🇬🇧 English</b> | <a href="https://github.com/markolofsen/taxi_script/blob/master/README_es.md">🇪🇸 Spanish</a> | <a href="https://github.com/markolofsen/taxi_script/blob/master/README_fr.md">🇫🇷 French</a> | <a href="https://github.com/markolofsen/taxi_script/blob/master/README_it.md">🇮🇹 Italian</a> | <a href="https://github.com/markolofsen/taxi_script/blob/master/README_ru.md">🇷🇺 Russian</a></p>
 
 ---
 
-Sample variable for repo: [[any_repo_var]]
-
-Version = 0.0.1 <br />
+Version = 0.0.2 <br />
 Library name = taxi_script <br />
 Title = Free Taxi Script <br />
 Keywords = Free taxi script app <br />
